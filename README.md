@@ -1,9 +1,9 @@
 ![Header](./header.png)
 # About me
 ```
-I'm Daniel Ghindea
+My name is Daniel Ghindea, undergraduate at [FACC](https://acs.pub.ro/en/) at the Politehnica University of Bucharest.
 ```
-#GitHub stats
+# GitHub stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
 # Knowledge
 <div>
