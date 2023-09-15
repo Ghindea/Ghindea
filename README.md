@@ -14,6 +14,7 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" alt="markdown" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" />
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="Photoshop" />
+<img width="45" src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" />
 </div>
 
 <!--
