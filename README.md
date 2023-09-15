@@ -1,7 +1,9 @@
+![Header](./github_profile_header.png)
 # About me
 ```
 I'm Daniel Ghindea
 ```
+#GitHub stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
 # Knowledge
 <div>
