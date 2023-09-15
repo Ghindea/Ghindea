@@ -2,7 +2,7 @@
 ```
 I'm Daniel Ghindea
 ```
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=red)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
 # Knowledge
 <div>
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" />
