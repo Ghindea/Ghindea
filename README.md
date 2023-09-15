@@ -1,4 +1,4 @@
-![Header](github profile header.png)
+![Header](./header.png)
 # About me
 ```
 I'm Daniel Ghindea
