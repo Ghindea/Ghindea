@@ -1,8 +1,9 @@
 ![Header](./header.png)
 # About me
-```
-My name is Daniel Ghindea, undergraduate at [FACC](https://acs.pub.ro/en/) at the Politehnica University of Bucharest.
-```
+My name is Daniel Ghindea, I'm 20 years old, undergraduate at [FACC](https://acs.pub.ro/en/), Politehnica [University](https://upb.ro/en/) of Bucharest.
+
+Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 and [chess](https://www.chess.com/member/ghindea) ♟️.
+
 # GitHub stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
 # Knowledge
