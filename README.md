@@ -1,4 +1,10 @@
-### Hi there 👋
+# About me
+```
+I'm Daniel Ghindea
+```
+
+# Knowledge
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" />
 
 <!--
 **Ghindea/Ghindea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
