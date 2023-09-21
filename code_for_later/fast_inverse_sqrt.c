@@ -20,9 +20,9 @@ float Q_rsqrt( float number )
  	return y;
 }
 /*
-*	31	30		   23	22				0
+*	31  30         23   22              0
 *	=	=============	=================	--> float 32 bits representation
-*	Sign	 Exponent			 Mantissa		2^23 * E + M (binary) => (1 + M/2^23) * 2^(E-127) (decimal)
+*	Sign     Exponent            Mantissa       2^23 * E + M (binary) => (1 + M/2^23) * 2^(E-127) (decimal)
 *	
 *	E in [128, - 127]
 *
@@ -43,5 +43,14 @@ float Q_rsqrt( float number )
 *	=> log(Γ) = -1/2 * log(y) => 1/2^23 (2^23 * EΓ + MΓ) + μ -127 = -1/2 * (1/2^23 (2^23 * Ey + My) + μ -127) => ... =>
 *	=> (2^23 * EΓ + MΓ) = 3/2 * 2^23 * (127 - μ) - 1/2 * (2^23 * Ey + My) => Γ = 0x5f3759df - ( i >> 1).
 *
-*	After an approximative value for 1/sqrt(y) was found it is refined by using a single iteration of Newton's method.
+*	The approximative value for 1/sqrt(y) is close enough to it's actual value that a single iteration of Newton's method is enough to get an error within 1%.
+*	Newton's method iteration: Xn+1 = Xn - f(Xn)/f'(Xn)
+*
+*	Let yi ~ 1/sqrt(y) be the value sought, then yi^(-1/2) ~ y, so yi^(-1/2) - y ~ 0. Therefore, yi^(-1/2) - y is the function f seeked for Newton's method.
+*	
+*	=> yi+1 = yi - (yi^(-1/2) - y) / -2yi^(-3) => yi+1 = yi + 1/2[(1/yi^2 - y) * yi^3] => yi+1 = yi + yi/2 - y*yi^3/2 => yi+1 = yi * (3/2 - y/2 * yi^2)
+*	
+*	y  = y * ( threehalfs - ( x2 * y * y ) ); is just the implementation of this result.
+*
+*	To refine the result's precision, more iterations can be added.
 */
