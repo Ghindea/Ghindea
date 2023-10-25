@@ -10,6 +10,8 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 <div>
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" alt="markdown" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" />
