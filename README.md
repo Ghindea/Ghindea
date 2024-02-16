@@ -1,4 +1,7 @@
-![Header](./header.png)
+<!--![Header](./header.png)-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=26&pause=500&color=8C0707&background=FFB26F00&multiline=true&random=false&width=600&height=80&separator=%3C&lines=System.out.println(%22Hello+world%2C+I'm+Daniel!%22);%3C%2F%2F+CSE+Student)](https://git.io/typing-svg)
+
 # About me 👨🏻‍💻
 My name is Daniel Ghindea, I'm 20 years old, undergraduate at [FACC](https://acs.pub.ro/en/), Politehnica [University](https://upb.ro/en/) of Bucharest.
 
@@ -6,6 +9,8 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 
 # GitHub stats 📈
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ghindea&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Currently learning 🌱
 <div>
