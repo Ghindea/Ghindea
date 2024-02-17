@@ -32,6 +32,7 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 
 # GitHub stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="30" height="30" />
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghindea&layout=compact&theme=dark)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="150">
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Ghindea&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
