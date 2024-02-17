@@ -12,11 +12,15 @@
                  ▀█                                                                                 ▀█▀ 
                                                                                                         
 ```
--->
+--> 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES&weight=900&size=33&duration=1000&pause=500&color=A83636&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=%E2%96%88%E2%96%80%E2%96%84+%E2%96%84%E2%96%80%E2%96%84+%E2%96%88%E2%96%84+%E2%96%88+%E2%96%88+%E2%96%88%E2%96%88%E2%96%80+%E2%96%88++;%E2%96%88%E2%96%84%E2%96%80+%E2%96%88%E2%96%80%E2%96%88+%E2%96%88+%E2%96%80%E2%96%88+%E2%96%88+%E2%96%88%E2%96%84%E2%96%84+%E2%96%88%E2%96%84%E2%96%84)](https://git.io/typing-svg)
-[![Visits Badge](https://badges.pufler.dev/visits/Ghindea/badge-it)](https://badges.pufler.dev)
+-->
+<!--[![Visits Badge](https://badges.pufler.dev/visits/Ghindea/badge-it)](https://badges.pufler.dev)-->
 
 <div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1200">
 
 # About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
 My name is Daniel Ghindea, I'm 20 years old, undergraduate at [FACC](https://acs.pub.ro/en/), Politehnica [University](https://upb.ro/en/) of Bucharest.
@@ -46,12 +50,16 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="Photoshop" />
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Lightroom" />
 </div>
-</div>
-<br>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <h3 align="center">
   <a href="https://github.com/Ghindea?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h3>
 
+### Visits
+
+![Visitor Count](https://profile-counter.glitch.me/Ghindea/count.svg)
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
