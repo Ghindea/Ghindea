@@ -65,7 +65,7 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 
 ![Visitor Count](https://profile-counter.glitch.me/Ghindea/count.svg)
 -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200">
+<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200">-->
 <!--<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />-->
 
 </div>
