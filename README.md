@@ -39,9 +39,10 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 # Currently learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="30" height="30" />
 <div>
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="Haskell" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" />
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" />
-<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" alt="Numpy" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" alt="Pandas" />
 </div>
 
 # Knowledge <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" />
@@ -51,6 +52,10 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" alt="markdown" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" />
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="Windows" />
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="Photoshop" />
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Lightroom" />
 </div>
