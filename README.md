@@ -38,6 +38,7 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 
 # Currently learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="30" height="30" />
 <div>
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" />
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" />
@@ -47,7 +48,6 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 <div>
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" />
-<!-- <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" /> -->
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" alt="markdown" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" />
