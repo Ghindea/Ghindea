@@ -38,8 +38,6 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 
 # Currently learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Fencing.png" alt="Person Fencing" width="30" height="30" />
 <div>
-<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="Haskell" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" alt="Numpy" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" alt="Pandas" />
@@ -48,7 +46,9 @@ Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 a
 # Knowledge <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" />
 <div>
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" />
+<img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="Haskell" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" alt="markdown" />
 <img width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" />
