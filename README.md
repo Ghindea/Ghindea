@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="800">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500">
 
 # [About me](https://drive.google.com/file/d/16sXIYrf-kg73G1KaXV6S8KyGhj4WuoYf/view?usp=sharing) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
 My name is Daniel Ghindea, I'm 20 years old, undergraduate at [FACC](https://acs.pub.ro/en/), Politehnica [University](https://upb.ro/en/) of Bucharest.
