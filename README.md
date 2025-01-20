@@ -24,7 +24,7 @@
 # [About me](https://drive.google.com/file/d/16sXIYrf-kg73G1KaXV6S8KyGhj4WuoYf/view?usp=sharing) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
 My name is Daniel Ghindea, I'm 21 years old, undergraduate at [FACC](https://acs.pub.ro/en/), Politehnica [University](https://upb.ro/en/) of Bucharest.
 
-Find more about my professional activity in [my resume](https://drive.google.com/file/d/16sXIYrf-kg73G1KaXV6S8KyGhj4WuoYf/view?usp=sharing).
+Find more about my professional activity in [my resume](https://sites.google.com/view/danielghindea/).
 
 Passionate about [photography](https://www.instagram.com/daniel_ghindea/) 📷 and [chess](https://www.chess.com/member/ghindea) ♟️.
 
